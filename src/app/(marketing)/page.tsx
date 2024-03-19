@@ -19,7 +19,8 @@ export default function Home() {
       </div>
       <div className="flex flex-col items-center gap-y-8">
         <h1 className="text-xl lg:text-3xl font-bold text-neutral-600 max-w-[480px] text-center">
-          Learn, practice, and master new languages with Lingo!
+          <strong> Embark on a Language Journey</strong> with{" "}
+          <em>Fluentify: Learn, Practice, Master.</em>
         </h1>
         <div className="flex flex-col items-center gap-y-3 max-w-[330px] w-full">
           <ClerkLoading>
